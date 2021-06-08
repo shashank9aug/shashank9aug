@@ -21,6 +21,12 @@ I'm Shashank. I love to work on full-stack web-dev projects and yeah i love to d
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
+2. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
+3. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
+4. 🗣 Commented on [#3385](https://github.com/nodejs/help/issues/3385) in [nodejs/help](https://github.com/nodejs/help)
+5. 🎉 Merged PR [#1](https://github.com/shashank-001/covido-saviour/pull/1) in [shashank-001/covido-saviour](https://github.com/shashank-001/covido-saviour)
+<!--END_SECTION:activity-->
 
 
 
