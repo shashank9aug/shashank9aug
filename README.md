@@ -1,9 +1,8 @@
-### Hi there 👋
-
-I'm Shashank. I love to work on full-stack web-dev projects and yeah i love to do open source contribution. :raised_hands: 
-
+### Hi there 👋 I'm Shashank. 
 - 🌱 I’m currently learning [React JS](https://github.com/reactjs/reactjs.org)
-
+- 👯 I’m looking to collaborate on Open Source projects
+- 💬 Ask me about GitHub Actions
+- ⚡ Fun fact: I'm not an ML simp! 🙂
 
 <!--
 **shashank-001/shashank-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.-->
@@ -28,7 +27,7 @@ I'm Shashank. I love to work on full-stack web-dev projects and yeah i love to d
 5. 🎉 Merged PR [#1](https://github.com/shashank-001/covido-saviour/pull/1) in [shashank-001/covido-saviour](https://github.com/shashank-001/covido-saviour)
 <!--END_SECTION:activity-->
 
-
+---
 
 
 
