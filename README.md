@@ -20,11 +20,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
-2. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
+1. 💪 Opened PR [#1834](https://github.com/EddieHubCommunity/support/pull/1834) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#1833](https://github.com/EddieHubCommunity/support/issues/1833) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 3. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
-4. 🗣 Commented on [#3385](https://github.com/nodejs/help/issues/3385) in [nodejs/help](https://github.com/nodejs/help)
-5. 🎉 Merged PR [#1](https://github.com/shashank-001/covido-saviour/pull/1) in [shashank-001/covido-saviour](https://github.com/shashank-001/covido-saviour)
+4. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
+5. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
 
 ---
