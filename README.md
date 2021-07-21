@@ -1,9 +1,8 @@
-### Hi there 👋
-
-I'm Shashank. I love to work on full-stack web-dev projects and yeah i love to do open source contribution. :raised_hands: 
-
+### Hi there 👋 I'm Shashank. 
 - 🌱 I’m currently learning [React JS](https://github.com/reactjs/reactjs.org)
-
+- 👯 I’m looking to collaborate on Open Source projects
+- 💬 Ask me about WebSockets!
+- ⚡ Fun fact: I'm not an ML simp! 🙂
 
 <!--
 **shashanksdev/shashanksdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.-->
@@ -21,8 +20,14 @@ I'm Shashank. I love to work on full-stack web-dev projects and yeah i love to d
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1839](https://github.com/EddieHubCommunity/support/issues/1839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#1839](https://github.com/EddieHubCommunity/support/issues/1839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#1834](https://github.com/EddieHubCommunity/support/pull/1834) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Opened issue [#1833](https://github.com/EddieHubCommunity/support/issues/1833) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#3392](https://github.com/nodejs/help/issues/3392) in [nodejs/help](https://github.com/nodejs/help)
+<!--END_SECTION:activity-->
 
-
+---
 
 
 
