@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shashank. 
 - 🌱 I’m currently learning [React JS](https://github.com/reactjs/reactjs.org)
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about [Socket](https://socket.io/)
+- 💬 Ask me about [Socket.io](https://socket.io/)
 - ⚡ Fun fact: I'm not an ML simp! 🙂
 
 <!--
