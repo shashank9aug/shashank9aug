@@ -5,15 +5,15 @@
 - ⚡ Fun fact: I'm not an ML simp! 🙂
 
 <!--
-**shashanksdev/shashanksdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.-->
+**shashank9aug/shashank9aug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.-->
 
 ---
-<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=shashanksdev&show_icons=true&theme=tokyonight" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksdev&layout=compact&theme=tokyonight" width="45.6%">
+<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=shashank9aug&show_icons=true&theme=tokyonight" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank9aug&layout=compact&theme=tokyonight" width="45.6%">
 
 ---
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/shashanksdev) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shashanksdev)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/shashank9aug) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shashank9aug)
 
 ---
 
