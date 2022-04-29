@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Shashank. 
-- 🌱 I’m currently learning [React JS](https://github.com/reactjs/reactjs.org)
+<!-- - 🌱 I’m currently learning [React JS](https://github.com/reactjs/reactjs.org)
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about [Socket.io](https://socket.io/)
-- ⚡ Fun fact: I'm not an ML simp! 🙂
+- ⚡ Fun fact: I'm not an ML simp! 🙂 -->
 
 <!--
 **shashank9aug/shashank9aug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.-->
